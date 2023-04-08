@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\FirstAzureAppTestProject\\FirstAzureAppTestProject.csproj": {}
+  },
+  "projects": {
+    "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\FirstAzureAppTestProject\\FirstAzureAppTestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\FirstAzureAppTestProject\\FirstAzureAppTestProject.csproj",
+        "projectName": "FirstAzureAppTestProject",
+        "projectPath": "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\FirstAzureAppTestProject\\FirstAzureAppTestProject.csproj",
+        "packagesPath": "C:\\Users\\Basharat\\.nuget\\packages\\",
+        "outputPath": "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\FirstAzureAppTestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Basharat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj": {
+                "projectPath": "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+        "projectName": "MyFirstAzureWebApp",
+        "projectPath": "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+        "packagesPath": "C:\\Users\\Basharat\\.nuget\\packages\\",
+        "outputPath": "F:\\00-G-Drive-Data\\Phd\\01. Courses\\26. DevOps MS SP2023\\Basharat-SP2023\\Src\\V2a\\devops-aspnet-core-github-workflow-v2a\\MyFirstAzureWebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Basharat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
