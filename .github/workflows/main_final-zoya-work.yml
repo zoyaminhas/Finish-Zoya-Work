@@ -64,7 +64,7 @@ working-directory:"./MyFirstAzureWebApp"
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "2 * * *"
 
 jobs:
   build:
