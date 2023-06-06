@@ -57,3 +57,23 @@ working-directory:"./MyFirstAzureWebApp"
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_323156796C694A8AA449EB7E77EF7013 }}
           package: .
+          
+   Ruff work       
+          
+          name: Scheduled Job
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Add your desired steps or commands here
+      # ...
+
